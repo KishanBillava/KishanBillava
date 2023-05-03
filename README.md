@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Kishan Billava
-- 👀 I’m interested in Python, Django & Computer Vision 
-- 🌱 I’m currently learning deployment of  Python, Django & Computer Vision Project 
-- 💞️ I’m looking to collaborate on Python Project 
+- 👀 I’m interested Robotic Operating System and Self Driving Car
+- 🌱 I’m currently learning SDC and C++ 
+- 💞️ I’m looking to collaborate on ROS and SDC related project 
 - 📫 How to reach me kishanbillava73@gmail.com
 
 <!---
