@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Kishan Billava
-- 👀 I’m interested Robotic Operating System and Self Driving Car
-- 🌱 I’m currently learning SDC and C++ 
-- 💞️ I’m looking to collaborate on ROS and SDC related project 
+- 👀 I’m interested Robotic Operating System
+- 🌱 I’m currently Deeplearning Computer Vision and C++ 
+- 💞️ I’m looking to collaborate on ROS related project 
 - 📫 How to reach me kishanbillava73@gmail.com
 
 <!---
