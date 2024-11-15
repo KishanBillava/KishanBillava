@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Kishan Billava
 - 👀 I’m interested Robotic Operating System
-- 🌱 I’m currently Deeplearning Computer Vision and C++ 
+- 🌱 I’m currently Learning Deeplearning with Computer Vision and C++ 
 - 💞️ I’m looking to collaborate on ROS related project 
 - 📫 How to reach me kishanbillava73@gmail.com
 
